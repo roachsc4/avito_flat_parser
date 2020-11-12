@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.3
+pydantic==1.6.1
+aiogram==2.11.2
+asyncpg==0.21.0
+httpx==0.16.1
